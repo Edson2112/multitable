@@ -15,7 +15,7 @@ public class Application {
             for (int i = 1; i <= 10; i++) {
 
                 int sum = value1 * i;
-                System.out.print(value1 + " * " + i + " = " + sum + "       ");
+                System.out.print(value1 + " * " + i + " = " + sum + "\t\t");
             }
             System.out.println();
         }
